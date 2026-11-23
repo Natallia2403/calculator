@@ -1,11 +1,11 @@
 {
 "routes":[
 {
-"src": "/"
+"src": "/",
 "dest": "/"
 },
 {
-"src": "/calculator"
+"src": "/calculator",
 "dest": "/"
 }
 ]
